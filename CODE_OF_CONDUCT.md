@@ -1,1 +1,1 @@
-EDGI's Code of Conduct is available here: [EDGI Code of Conduct](https://github.com/edgi-govdata-archiving/overview/blob/main/CONDUCT.md)
+EDGI's Code of Conduct is available here: [EDGI Code of Conduct](https://docs.google.com/document/d/1zqFPVjQ__x3tfcSlir-jeO7O-mcCh4oKyNNlJEpJMOU/edit?usp=sharing)
